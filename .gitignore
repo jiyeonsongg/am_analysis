@@ -1,0 +1,49 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.ipynb_checkpoints
+
+# --- Virtual environments ---
+.venv/
+venv/
+env/
+ENV/
+.conda/
+*.env
+
+# --- IDE / Editor files ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Data files ---
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.json
+*.dat
+*.sav
+*.h5
+*.zip
+
+# --- Outputs / Plots / Figures ---
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.pdf
+
+# --- Logs / Temporary files ---
+*.log
+*.tmp
+*.bak
+*.orig
+
+# --- OS-specific ---
+.DS_Store
+Thumbs.db
